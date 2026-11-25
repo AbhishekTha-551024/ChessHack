@@ -1,0 +1,80 @@
+[0,0][1080,264] | C | text='' | desc='' | id= | View
+[0,121][132,253] | C | text='' | desc='' | id= | View
+[33,154][99,220] | - | text='' | desc='Back' | id= | View
+[132,148][948,225] | - | text='' | desc='Chess.com logo' | id= | View
+[948,121][1080,253] | C | text='' | desc='' | id= | View
+[981,154][1047,220] | - | text='' | desc='Settings' | id= | View
+[0,2138][270,2292] | C | text='' | desc='' | id= | View
+[77,2234][194,2273] | - | text='Options' | desc='' | id= | TextView
+[270,2138][540,2292] | C | text='' | desc='' | id= | View
+[364,2234][447,2273] | - | text='Abort' | desc='' | id= | TextView
+[540,2138][810,2292] | C | text='' | desc='' | id= | View
+[644,2234][706,2273] | - | text='Hint' | desc='' | id= | TextView
+[810,2138][1080,2292] | C | text='' | desc='' | id= | View
+[905,2234][985,2273] | - | text='Undo' | desc='' | id= | TextView
+[276,558][1014,661] | - | text='Pull up a chair. You look like you’ve got pieces to lose.' | desc='' | id= | TextView
+[22,496][242,716] | C | text='' | desc='' | id= | View
+[0,738][135,873] | C | text='' | desc='Black Rook on a8' | id= | View
+[135,738][270,873] | C | text='' | desc='Black Knight on b8' | id= | View
+[270,738][405,873] | C | text='' | desc='Black Bishop on c8' | id= | View
+[405,738][540,873] | C | text='' | desc='Black Queen on d8' | id= | View
+[540,738][675,873] | C | text='' | desc='Black King on e8' | id= | View
+[675,738][810,873] | C | text='' | desc='Black Bishop on f8' | id= | View
+[810,738][945,873] | C | text='' | desc='Black Knight on g8' | id= | View
+[945,738][1080,873] | C | text='' | desc='Black Rook on h8' | id= | View
+[0,873][135,1008] | C | text='' | desc='Black Pawn on a7' | id= | View
+[135,873][270,1008] | C | text='' | desc='Black Pawn on b7' | id= | View
+[270,873][405,1008] | C | text='' | desc='Black Pawn on c7' | id= | View
+[405,873][540,1008] | C | text='' | desc='Black Pawn on d7' | id= | View
+[540,873][675,1008] | C | text='' | desc='Black Pawn on e7' | id= | View
+[675,873][810,1008] | C | text='' | desc='Black Pawn on f7' | id= | View
+[810,873][945,1008] | C | text='' | desc='Black Pawn on g7' | id= | View
+[945,873][1080,1008] | C | text='' | desc='Black Pawn on h7' | id= | View
+[0,1008][135,1143] | C | text='' | desc='a6, empty' | id= | View
+[135,1008][270,1143] | C | text='' | desc='b6, empty' | id= | View
+[270,1008][405,1143] | C | text='' | desc='c6, empty' | id= | View
+[405,1008][540,1143] | C | text='' | desc='d6, empty' | id= | View
+[540,1008][675,1143] | C | text='' | desc='e6, empty' | id= | View
+[675,1008][810,1143] | C | text='' | desc='f6, empty' | id= | View
+[810,1008][945,1143] | C | text='' | desc='g6, empty' | id= | View
+[945,1008][1080,1143] | C | text='' | desc='h6, empty' | id= | View
+[0,1143][135,1278] | C | text='' | desc='a5, empty' | id= | View
+[135,1143][270,1278] | C | text='' | desc='b5, empty' | id= | View
+[270,1143][405,1278] | C | text='' | desc='c5, empty' | id= | View
+[405,1143][540,1278] | C | text='' | desc='d5, empty' | id= | View
+[540,1143][675,1278] | C | text='' | desc='e5, empty' | id= | View
+[675,1143][810,1278] | C | text='' | desc='f5, empty' | id= | View
+[810,1143][945,1278] | C | text='' | desc='g5, empty' | id= | View
+[945,1143][1080,1278] | C | text='' | desc='h5, empty' | id= | View
+[0,1278][135,1413] | C | text='' | desc='a4, empty' | id= | View
+[135,1278][270,1413] | C | text='' | desc='b4, empty' | id= | View
+[270,1278][405,1413] | C | text='' | desc='c4, empty' | id= | View
+[405,1278][540,1413] | C | text='' | desc='d4, empty' | id= | View
+[540,1278][675,1413] | C | text='' | desc='e4, empty' | id= | View
+[675,1278][810,1413] | C | text='' | desc='f4, empty' | id= | View
+[810,1278][945,1413] | C | text='' | desc='g4, empty' | id= | View
+[945,1278][1080,1413] | C | text='' | desc='h4, empty' | id= | View
+[0,1413][135,1548] | C | text='' | desc='a3, empty' | id= | View
+[135,1413][270,1548] | C | text='' | desc='b3, empty' | id= | View
+[270,1413][405,1548] | C | text='' | desc='c3, empty' | id= | View
+[405,1413][540,1548] | C | text='' | desc='d3, empty' | id= | View
+[540,1413][675,1548] | C | text='' | desc='e3, empty' | id= | View
+[675,1413][810,1548] | C | text='' | desc='f3, empty' | id= | View
+[810,1413][945,1548] | C | text='' | desc='g3, empty' | id= | View
+[945,1413][1080,1548] | C | text='' | desc='h3, empty' | id= | View
+[0,1548][135,1683] | C | text='' | desc='White Pawn on a2' | id= | View
+[135,1548][270,1683] | C | text='' | desc='White Pawn on b2' | id= | View
+[270,1548][405,1683] | C | text='' | desc='White Pawn on c2' | id= | View
+[405,1548][540,1683] | C | text='' | desc='White Pawn on d2' | id= | View
+[540,1548][675,1683] | C | text='' | desc='White Pawn on e2' | id= | View
+[675,1548][810,1683] | C | text='' | desc='White Pawn on f2' | id= | View
+[810,1548][945,1683] | C | text='' | desc='White Pawn on g2' | id= | View
+[945,1548][1080,1683] | C | text='' | desc='White Pawn on h2' | id= | View
+[0,1683][135,1818] | C | text='' | desc='White Rook on a1' | id= | View
+[135,1683][270,1818] | C | text='' | desc='White Knight on b1' | id= | View
+[270,1683][405,1818] | C | text='' | desc='White Bishop on c1' | id= | View
+[405,1683][540,1818] | C | text='' | desc='White Queen on d1' | id= | View
+[540,1683][675,1818] | C | text='' | desc='White King on e1' | id= | View
+[675,1683][810,1818] | C | text='' | desc='White Bishop on f1' | id= | View
+[810,1683][945,1818] | C | text='' | desc='White Knight on g1' | id= | View
+[945,1683][1080,1818] | C | text='' | desc='White Rook on h1' | id= | View
